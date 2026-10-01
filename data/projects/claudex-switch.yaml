@@ -1,0 +1,4 @@
+name: claudex-switch
+repo: https://github.com/Holden-Lin/claudex-switch
+tagline: OpenCode Go profiles by alias, with quota checks and shared local history
+description: "Source-available CLI for OpenCode Go account aliases and provider-reported quotas, with shared session history. Also supports Claude Code and Codex. Licensed under MIT + Commons Clause v1.0: ordinary work use is allowed, but charging third parties for products or services whose value derives entirely or substantially from this tool requires separate permission."
